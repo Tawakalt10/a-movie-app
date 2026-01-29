@@ -33,7 +33,7 @@ const MovieCard = ( {movie :{title, vote_average, poster_path,
               <p className="year" style={{ color: "white", fontSize: "16px" }}>
                 {release_date ? release_date.split('-')[0] : 'N/A'}
                  
-                 </p>
+                 </p>   
 
           </div>
         
